@@ -11,7 +11,7 @@ namespace EditorHtml
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Clear();
-            Console.WriteLine("MODO DE VISUALIZADOR");
+            Console.WriteLine("MODO VISUALIZADOR");
             Console.WriteLine("Precione ESC para finalizar");
             Console.WriteLine("\n");
             Replace(text);
